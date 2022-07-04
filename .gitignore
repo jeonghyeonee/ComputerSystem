@@ -1,0 +1,5 @@
+# vscode c언어 설정파일
+.vscode/
+
+# exe 파일
+*.exe
